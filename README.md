@@ -1,6 +1,6 @@
 <img align="top" alt="banner" width ="1000px" height="400px" src="https://github.com/Rajkumarpaneru18/Rajkumarpaneru18/blob/main/banner.png">
-<h1 align="center">👋Raj Kumar Paneru</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">👉Raj Kumar Paneru👈</h1>
+<h3 align="center" font="bold" >Frontend Developer🤟</h3>
 <img align="right" alt="coding" widht="400px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tt1k8kiny8q9es4ev5w6rd4wkltdzij6150kpbgn&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarpaneru18&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarpaneru18" /> </p>
