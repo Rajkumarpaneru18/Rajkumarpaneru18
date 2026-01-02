@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 </div>
-  <h3 align="center" font="bold" >Frontend Developer🤟</h3>
+  <h3 align="center" font="bold" >CSOC Analyst🤟</h3>
 
   <p> <img src="https://komarev.com/ghpvc/?username=rajkumarpaneru18&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarpaneru18" /> </p>
 </div>
